@@ -10,3 +10,6 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body {
+    background:#5A534A ;
+}
